@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="colorPrimary">#D81EF8</color>
+    <color name="colorPrimaryDark">#7732F1</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="panel01_color">#FF0000</color>
+    <color name="panel01_color02">#FA0000</color>
+    <color name="panel01_color03">#C80000</color>
+    <color name="panel01_color04">#960000</color>
+    <color name="panel01_color05">#640000</color>
+    <color name="panel01_color06">#320000</color>
+
+    <color name="panel02_color">#00FF00</color>
+    <color name="panel02_color02">#00C800</color>
+    <color name="panel02_color03">#009600</color>
+    <color name="panel02_color04">#006400</color>
+    <color name="panel02_color05">#003200</color>
+    <color name="panel02_color06">#000000</color>
+
+    <color name="panel03_color">#0000FF</color>
+    <color name="panel03_color02">#0000C8</color>
+    <color name="panel03_color03">#000096</color>
+    <color name="panel03_color04">#000064</color>
+    <color name="panel03_color05">#000032</color>
+    <color name="panel03_color06">#000000</color>
 </resources>
